@@ -1,6 +1,8 @@
 [core]
-    remote = copy data
+    remote = dvc stored data folder
 ['remote "dvc dataset"']
     url = ../dataset
 ['remote "copy data"']
+    url = ../dataset_copy
+['remote "dvc stored data folder"']
     url = ../dataset_copy
