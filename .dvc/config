@@ -1,0 +1,4 @@
+[core]
+    remote = dvc dataset
+['remote "dvc dataset"']
+    url = ../dataset
